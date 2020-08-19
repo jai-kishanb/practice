@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Running Invalid]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="41" started-at="2020-08-19T13:44:30 IST" finished-at="2020-08-19T13:44:30 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="41" started-at="2020-08-19T13:44:30 IST" finished-at="2020-08-19T13:44:30 IST">
+      <class name="com.actiTime.LoginTests.InvalidLoginTest">
+        <test-method status="PASS" signature="run()[pri:0, instance:com.actiTime.LoginTests.InvalidLoginTest@61f8bee4]" name="run" duration-ms="9" started-at="2020-08-19T13:44:30 IST" finished-at="2020-08-19T13:44:30 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Running Invalid]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- run -->
+      </class> <!-- com.actiTime.LoginTests.InvalidLoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

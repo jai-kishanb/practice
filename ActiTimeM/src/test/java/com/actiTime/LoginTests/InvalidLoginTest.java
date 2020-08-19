@@ -1,6 +1,5 @@
 package com.actiTime.LoginTests;
 
-import org.openqa.selenium.WebDriver;
 import org.testng.Reporter;
 import org.testng.annotations.Test;
 
